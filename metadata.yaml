@@ -1,0 +1,31 @@
+_repo: The-Life-and-Times-of-Kateri-TekakwithaThe-Lily-of-the-Mohawks_37421
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walworth, Ellen H. (Ellen Hardin)
+    alias: Walworth, Ellen Hardin
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '38836'
+    url: http://www.gutenberg.org/2009/agents/38836
+description: ''
+gutenberg_issued: '2011-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37421'
+  lccn: '11023174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Kahnawake (Québec)'
+- !lcc 'E011'
+- !lcsh 'Mohawk Indians'
+- !lcsh 'Tekakwitha, Kateri, Saint, 1656-1680'
+title: The Life and Times of Kateri Tekakwitha, the Lily of the Mohawks
+url: http://www.gutenberg.org/ebooks/37421
