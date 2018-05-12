@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38836'
     url: http://www.gutenberg.org/2009/agents/38836
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37421#The-Life-and-Times-of-Kateri-TekakwithaThe-Lily-of-the-Mohawks
 gutenberg_issued: '2011-09-14'
 gutenberg_type: Text
 identifiers:
